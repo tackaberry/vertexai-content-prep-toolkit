@@ -1,4 +1,4 @@
-# VertexAI Search & Conversation Content Preparation Script
+# VertexAI Search & Conversation Content Preparation Toolit
 
 This is a collection of scripts to prepare content for VertexAI Search & Conversation.
 
