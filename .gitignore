@@ -1,0 +1,9 @@
+# gitignore file for python projects
+
+__pycache__/
+.env
+env
+cache
+*.csv
+
+
